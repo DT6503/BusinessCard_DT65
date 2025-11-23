@@ -237,6 +237,8 @@ function preloadOuchSound() {
     }
 }
 
+
+
 // Функция для бургер-меню
 function initBurgerMenu() {
     const burgerMenu = document.getElementById('burgerMenu');
@@ -310,3 +312,8 @@ document.addEventListener('DOMContentLoaded', function() {
     console.log('DOM загружен'); // Для отладки
     initBurgerMenu();
 });
+
+
+
+
+//Формы
